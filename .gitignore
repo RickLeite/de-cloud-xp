@@ -1,10 +1,4 @@
 *.csv
 *.xlsx
 *.zip
-
-# Terraform files
-.terraform/
-*.tfstate
-*.tfstate.backup
-*.tfplan
-.terraform.lock.hcl
+*.rar
