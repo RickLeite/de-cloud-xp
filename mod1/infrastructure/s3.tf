@@ -1,7 +1,7 @@
 
 resource "aws_s3_bucket" "dl-pipe" {
 
-  bucket = "datalake-igti-edc-tf"
+  bucket = "datalake-patrz-igti-edc-tf"
 
   tags = {
     IES   = "IGTI"
